@@ -18,7 +18,7 @@ Before you start, make sure you have the following installed:
 
 ### Installation
 - Clone the repository to your local machine:<br>
-***git clone https://github.com/your-username/google_map_implementation.git***
+***git clone https://github.com/zeeshan564/Google-Map-Implementation.git***
 - Navigate to the project directory:<br>
 ***cd google_map_implementation***
 - Install the project dependencies:<br>
