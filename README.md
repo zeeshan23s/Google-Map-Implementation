@@ -20,7 +20,7 @@ Before you start, make sure you have the following installed:
 - Clone the repository to your local machine:<br>
 ***git clone https://github.com/zeeshan564/Google-Map-Implementation.git***
 - Navigate to the project directory:<br>
-***cd google_map_implementation***
+***cd Google-Map-Implementation***
 - Install the project dependencies:<br>
 ***flutter pub get***
 - Configure Google Maps API Key:
